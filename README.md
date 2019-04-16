@@ -1,2 +1,2 @@
 # repo1
-personal repo
+personal algorithm repo
